@@ -1,5 +1,5 @@
 import random
-continuee = 1
+continuee = Tr
 while continuee:
     print("You rolled : ",random.randint(1,6))
     print("Roll again? Y/N")
